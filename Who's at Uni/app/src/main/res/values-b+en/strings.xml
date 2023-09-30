@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Who\'s at Uni</string>
+
+    <!-- Splash screen -->
+    <string name="permission_text">This app needs access to your position to work</string>
+    <string name="grant_now_button">Grant now</string>
+    <string name="grant_background_position_button">Concedi accesso posizione in background</string>
+
+    <!-- Login Screen -->
+    <string name="email_login_hint">Insert email address</string>
+    <string name="pw_login_hint">your password</string>
+    <string name="text_login">Don\'t have an account? click here to create one</string>
+    <string name="button_login">log in</string>
+    <!-- Login Fragment -->
+    <string name="missingemail">Email is required</string>
+    <string name="missingpw">Password is required</string>
+    <string name="invaliduspw">Invalid username or password </string>
+
+    <string name="text_signup">Already have an account?</string>
+    <string name="button_signup">Sign up</string>
+    <string name="pw2_login_hint">Repeat password</string>
+    <string name="pw_required">Password is required"</string>
+    <string name="usr_required">Email is required</string>
+    <string name="different_pw">passwords do not match</string>
+
+    <!-- Main -->
+    <string name="YourStatus">Your status:</string>
+    <string name="Username">User:</string>
+    <string name="status">Status:</string>
+    <string name="time">last Update:</string>
+    <string name="NewFrendName">Name:</string>
+    <string name="new_friend">New Friend:</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="namerequired">Name required</string>
+    <string name="uidrequired">UID required</string>
+    <string name="killswitchtoast1">Sharing interrupted</string>
+    <string name="killswitchtoast2">Sharing resumed</string>
+    <string name="killswitchTextstop">Stop Sharing</string>
+    <string name="killswitchTextresume">Resume Sharing</string>
+    <string name="secondsago">seconds ago</string>
+    <string name="minutesago">minutes ago</string>
+    <string name="hoursago">hours ago</string>
+    <string name="daysago">days ago</string>
+    <string name="uidcopiedtoast">UID copied to clipboard</string>
+    <string name="YourUID">Your UID:</string>
+    <string name="infoapp">info</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="ManageFriends">Manage Friends</string>
+    <string name="info">Info</string>
+    <string name="UsrNotAtUni">Not at Uni</string>
+
+    <!-- FriendsActivity -->
+    <string name="mycode">my code</string>
+    <string name="scancode">scan code</string>
+    <string name="qrcodetext">By scanning this QR Code, your friend can add you to his list of people to update</string>
+    <string name="saveingallery">Save to gallery</string>
+    <string name="imgSavedto">Image saved in: </string>
+    <string name="shareqrcode">Share</string>
+    <string name="scan">Scan</string>
+    <string name="vlmupflash">Use volume to turn on the flash</string>
+    <string name="manualadd">Insert code</string>
+    <string name="FriendAdded">Friend added</string>
+    <string name="UIDamico">Friend\'s UID</string>
+
+    <!-- ManageFriends -->
+    <string name="FriendUID">UID:</string>
+    <string name="RemoveButton">Remove</string>
+
+
+</resources>

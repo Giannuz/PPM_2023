@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="app_name">Who\'s at Uni</string>
+
+    <!-- Splash screen -->
+    <string name="permission_text">Questa applicazione ha bisogno di accedere alla tua posizione per poter funzionare</string>
+    <string name="grant_now_button">Concedi ora</string>
+    <string name="grant_background_position_button">Concedi accesso posizione in background</string>
+
+    <!-- Login Screen -->
+    <string name="email_login_hint">Inserisci indirizzo email</string>
+    <string name="pw_login_hint">Inserisci la tua password</string>
+    <string name="text_login">Non hai un\'account? clicca quì per crearne uno</string>
+    <string name="button_login">Accedi</string>
+    <!-- Login Fragment -->
+    <string name="missingemail">È necessario inserire l\'email</string>
+    <string name="missingpw">È necessario inserire una password</string>
+    <string name="invaliduspw">Username o password invalidi</string>
+    <!-- Signup Fragment -->
+    <string name="text_signup">Hai già un\'account? clicca quì per effettuare il login</string>
+    <string name="button_signup">Registrati</string>
+    <string name="pw2_login_hint">Ripeti password</string>
+    <string name="pw_required">È necessario inserire la password</string>
+    <string name="usr_required">È necessario insrire l\'email</string>
+    <string name="different_pw">Le password non coincidono</string>
+
+    <!-- Main -->
+    <string name="YourStatus">Il tuo stato:</string>
+    <string name="Username">Utente:</string>
+    <string name="status">Stato:</string>
+    <string name="time">Aggiornato:</string>
+    <string name="NewFrendName">Nome:</string>
+    <string name="new_friend">UID nuovo amico:</string>
+    <string name="addFriend">Aggiungi</string>
+    <string name="namerequired">È necessario inserire un nome</string>
+    <string name="uidrequired">È necessario inerire un UID</string>
+    <string name="killswitchtoast1">Condivisione interrotta</string>
+    <string name="killswitchtoast2">Condivisione ripresa</string>
+    <string name="killswitchTextstop">Interrompi condivisione</string>
+    <string name="killswitchTextresume">Riprendi condivisione</string>
+    <string name="secondsago">secondi fa</string>
+    <string name="minutesago">minuti fa</string>
+    <string name="hoursago">ore fa</string>
+    <string name="daysago">giorni fa</string>
+    <string name="uidcopiedtoast">UID copiato negli appunti</string>
+    <string name="YourUID">Il tuo UID:</string>
+    <string name="infoapp">Informazioni</string>
+    <string name="nav_open">Apri</string>
+    <string name="nav_close">Chiudi</string>
+    <string name="logout">Logout</string>
+    <string name="info">Informazioni</string>
+    <string name="ManageFriends">Gestione amici</string>
+    <string name="UsrNotAtUni">Non in Università</string>
+
+
+    <!-- FriendsActivity -->
+    <string name="mycode">il mio codice</string>
+    <string name="scancode">inquadra codice</string>
+    <string name="qrcodetext">Scansionando questo QR Code un tuo amico può aggiungerti alla sua lista di persone da aggiornare</string>
+    <string name="saveingallery">Salva nella galleria</string>
+    <string name="imgSavedto">Immagine salvata in: </string>
+    <string name="shareqrcode">Condividi</string>
+    <string name="scan">Scannerizza</string>
+    <string name="vlmupflash">Usa "volume su" per accendere il flash</string>
+    <string name="manualadd">inserisci codice</string>
+    <string name="FriendAdded">Amico aggiunto</string>
+    <string name="UIDamico">UID Amico</string>
+
+    <!-- ManageFriends -->
+    <string name="FriendUID">UID:</string>
+    <string name="RemoveButton">Rimuovi</string>
+
+</resources>
